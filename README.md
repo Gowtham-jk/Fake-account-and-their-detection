@@ -39,4 +39,7 @@ Step 4- project on server:- (myvenv) E:\FPD>python manage.py runserver
 The above mentioned requirements.txt file is already provided with project.
 
 After following the above given steps, you are good to go and can run this astonishing project.
-    
+
+# Output
+![Screenshot 2025-07-07 233721](https://github.com/user-attachments/assets/0c775bd7-9f31-46d6-9572-415bb26af3b1)
+
